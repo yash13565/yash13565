@@ -1,4 +1,4 @@
-💻 Frontend Developer with almost 2 years of hands-on experience in building responsive and user-friendly web applications.
+💻 Frontend Developer with almost 3 years of hands-on experience in building responsive and user-friendly web applications.
 
 🚀 Proficient in HTML, CSS, and JavaScript, with a strong emphasis on modern frontend frameworks like Next.js.
 
